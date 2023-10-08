@@ -30,14 +30,15 @@ input:focus,button:focus{
     outline:none;
 }
 .btn-submit{
-    width: 5px;
-    height: 45px;
+    width: 80px;
+    height: 46px;
     border-radius: 20px;
     background-color: #f7be38;
     font-weight: bold;
     position: absolute;
     margin-left: -4%;
     font-size: 18px;
+    
 }
 h2{
     font-size: 28px;
